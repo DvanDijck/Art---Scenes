@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 495}
   m_MaxSize: {x: 14004, y: 14045}
   vertical: 0
-  controlID: 12071
+  controlID: 409
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 495}
   m_MaxSize: {x: 10002, y: 14045}
   vertical: 1
-  controlID: 12072
+  controlID: 410
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 12073
+  controlID: 411
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -366,9 +366,9 @@ MonoBehaviour:
     height: 577
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0836feff
-    m_LastClickedID: -117240
-    m_ExpandedIDs: cefbffff00000000a82c0000782d0000842e00009c2e0000
+    m_SelectedIDs: b6f7ffff
+    m_LastClickedID: -2122
+    m_ExpandedIDs: cefbffff00000000742c0000882d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -423,9 +423,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.5816293, y: 83.019394, z: -2.9134562}
+    m_Target: {x: -0.7225258, y: 83.76621, z: 2.2906265}
     speed: 2
-    m_Value: {x: -1.5816293, y: 83.019394, z: -2.9134562}
+    m_Value: {x: -0.7225258, y: 83.76621, z: 2.2906265}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -448,13 +448,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.056702327, y: 0.8208381, z: -0.08277208, w: -0.56229097}
+    m_Target: {x: -0.038569078, y: 0.8889471, z: -0.07619026, w: -0.44999218}
     speed: 2
-    m_Value: {x: -0.05670197, y: 0.8208329, z: -0.08277157, w: -0.5622874}
+    m_Value: {x: -0.03856884, y: 0.88894165, z: -0.07618979, w: -0.44998938}
   m_Size:
-    m_Target: 2.5892026
+    m_Target: 5.4113307
     speed: 2
-    m_Value: 2.5892026
+    m_Value: 5.4113307
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -528,19 +528,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Sounds
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 79
   m_LastFolders:
-  - Assets/Sounds
+  - Assets
   m_LastFoldersGridSize: 79
   m_LastProjectPath: H:\Art---Scenes\Dennis - Art Roaming Scene - Unity
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e4280000
-    m_LastClickedID: 10468
-    m_ExpandedIDs: 00000000d0260000422700008c2b0000ea2f0000ec2f0000ee2f0000f02f0000f22f0000f42f0000f62f0000f82f0000fa2f000000ca9a3bffffff7f
+    m_SelectedIDs: d0260000
+    m_LastClickedID: 9936
+    m_ExpandedIDs: 00000000d026000042270000922b0000023000000430000006300000083000000a3000000c3000000e300000103000001230000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -568,7 +568,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d0260000422700008c2b0000ea2f0000ec2f0000ee2f0000f02f0000f22f0000f42f0000f62f0000f82f0000fa2f000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000d026000042270000922b0000023000000430000006300000083000000a3000000c3000000e300000103000001230000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
